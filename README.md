@@ -41,3 +41,5 @@ It is a serverless database so that you don't have to choose an instance size at
  ## In this Project I have created the PUT operation and learned the Mechanism of API in Databases.
  
  ## SCREENSHOTS:
+![image](https://user-images.githubusercontent.com/99089411/201470047-2c722c8c-3213-4cd2-bd2f-5682e566b533.png)
+![image](https://user-images.githubusercontent.com/99089411/201470080-59dde7dd-943c-4daf-91e9-27dc5aa33886.png)
